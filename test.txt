@@ -2,7 +2,7 @@
 Parameter.function_aaa => FunctionAAA
 Parameter.function_bbb => nil
 Parameter.function_ccc => nil
-Parameter.function_ddd => nil
+Parameter.function_ddd => FunctionDDD
 Parameter.function_eee => nil
 Parameter.function_fff => nil
 Parameter.function_ggg => nil
