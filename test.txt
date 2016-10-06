@@ -1,6 +1,6 @@
 %{
 Parameter.function_aaa => FunctionAAA
-Parameter.function_bbb => nil
+Parameter.function_bbb => FunctionBBB
 Parameter.function_ccc => nil
 Parameter.function_ddd => nil
 Parameter.function_eee => nil
